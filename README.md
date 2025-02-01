@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/adriansim-code/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/adriansim-code/post-install-config)
 <!--
 **adriansim-code/adriansim-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
