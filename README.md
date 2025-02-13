@@ -10,6 +10,8 @@
 
 - <b>Python</b>
   - [To-Do List](https://github.com/adriansim-code/todo_test)
+  -  [Marvel Character API](https://github.com/adriansim-code/marvel_proj)
+
 
 - <b>Java</b> 
   - [Menu Ordering System](https://github.com/adriansim-code/menu_ordering_system)
